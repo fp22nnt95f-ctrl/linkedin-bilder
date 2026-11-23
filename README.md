@@ -1,3 +1,3 @@
-# Charts for LinkedIn posts
+# Charts
 
-Own charts used in LinkedIn posts by David Ludwig.
+Images for scheduled posts.
